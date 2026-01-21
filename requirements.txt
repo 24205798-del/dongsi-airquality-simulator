@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+xgboost==1.7.6
+shap
+matplotlib
+groq
+plotly
+seaborn
+fpdf
+pillow
